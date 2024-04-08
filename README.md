@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 <h3 align="center">Professor</h3>
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaRaCZNgvCZ2qCNuX2AhhjQ?color=%23FF0000&label=Subscribe%20on%20YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/@prof.tiagotas)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagotas" alt="tiagotas" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
